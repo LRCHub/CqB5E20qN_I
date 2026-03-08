@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "rewind #N",
+  "base_artist": "Empty old City",
+  "createdAt": "2026-03-08T04:50:44.993843Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "rewind #N",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_rewind__N_Empty_old_City.txt"
+    }
+  ]
+}
